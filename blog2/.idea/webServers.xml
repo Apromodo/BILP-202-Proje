@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="504d1b39-bfb3-40c2-a047-cf021fc63bd1" name="aeco" url="http://lin22.yoncu.com/">
+        <fileTransfer host="lin22.yoncu.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="ab1e8d31-e2bd-4ba6-ab8c-2f2a8ec78677" name="codingtr" url="http://lin20.yoncu.com">
+        <fileTransfer host="lin20.yoncu.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

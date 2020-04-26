@@ -19,3 +19,8 @@ Route::get('welcome', function () {
 
 //Route::get('/','deneme@test');
 Route::get('/','deneme@test2');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+
